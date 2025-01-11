@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entities", "Entities\Entiti
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Data", "Data\Data.csproj", "{0691A49D-68EC-4B2E-99A6-8521B5A31D3E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Presentation", "Presentation\Presentation.csproj", "{D05AA8F1-8167-4D0D-B6ED-8AF66A04CB38}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UrlMappingApi", "UrlMappingApi\UrlMappingApi.csproj", "{F685EFD7-7D8A-4220-86CA-938195729D3B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -23,10 +23,10 @@ Global
 		{0691A49D-68EC-4B2E-99A6-8521B5A31D3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0691A49D-68EC-4B2E-99A6-8521B5A31D3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0691A49D-68EC-4B2E-99A6-8521B5A31D3E}.Release|Any CPU.Build.0 = Release|Any CPU
-		{D05AA8F1-8167-4D0D-B6ED-8AF66A04CB38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{D05AA8F1-8167-4D0D-B6ED-8AF66A04CB38}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{D05AA8F1-8167-4D0D-B6ED-8AF66A04CB38}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{D05AA8F1-8167-4D0D-B6ED-8AF66A04CB38}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F685EFD7-7D8A-4220-86CA-938195729D3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F685EFD7-7D8A-4220-86CA-938195729D3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F685EFD7-7D8A-4220-86CA-938195729D3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F685EFD7-7D8A-4220-86CA-938195729D3B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

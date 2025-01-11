@@ -1,7 +1,7 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\asus\\Desktop\\tamrin\\UrlShortener\\Presentation\\Presentation.csproj": {}
+    "C:\\Users\\asus\\Desktop\\tamrin\\UrlShortener\\UrlMappingApi\\UrlMappingApi.csproj": {}
   },
   "projects": {
     "C:\\Users\\asus\\Desktop\\tamrin\\UrlShortener\\Data\\Data.csproj": {
@@ -126,14 +126,14 @@
         }
       }
     },
-    "C:\\Users\\asus\\Desktop\\tamrin\\UrlShortener\\Presentation\\Presentation.csproj": {
+    "C:\\Users\\asus\\Desktop\\tamrin\\UrlShortener\\UrlMappingApi\\UrlMappingApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\asus\\Desktop\\tamrin\\UrlShortener\\Presentation\\Presentation.csproj",
-        "projectName": "Presentation",
-        "projectPath": "C:\\Users\\asus\\Desktop\\tamrin\\UrlShortener\\Presentation\\Presentation.csproj",
+        "projectUniqueName": "C:\\Users\\asus\\Desktop\\tamrin\\UrlShortener\\UrlMappingApi\\UrlMappingApi.csproj",
+        "projectName": "UrlMappingApi",
+        "projectPath": "C:\\Users\\asus\\Desktop\\tamrin\\UrlShortener\\UrlMappingApi\\UrlMappingApi.csproj",
         "packagesPath": "C:\\Users\\asus\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\asus\\Desktop\\tamrin\\UrlShortener\\Presentation\\obj\\",
+        "outputPath": "C:\\Users\\asus\\Desktop\\tamrin\\UrlShortener\\UrlMappingApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\asus\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -169,6 +169,16 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "[8.0.11, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.6.2, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -181,6 +191,9 @@
           "assetTargetFallback": true,
           "warn": true,
           "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
