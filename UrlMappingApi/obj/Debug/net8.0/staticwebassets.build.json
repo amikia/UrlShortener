@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "rEsuwyb4y5LlA1xIs2CBlX6rHVYscQFUyGrowh1FvhE=",
+  "Source": "UrlMappingApi",
+  "BasePath": "_content/UrlMappingApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
