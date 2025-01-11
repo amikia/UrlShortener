@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("UrlMappingApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1aa4b1b4a41c99a24a9025b22b5a7a8a46fe3c49")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e6867de766c60d98a6b29fa36714bc20a66bf29e")]
 [assembly: System.Reflection.AssemblyProductAttribute("UrlMappingApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("UrlMappingApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
