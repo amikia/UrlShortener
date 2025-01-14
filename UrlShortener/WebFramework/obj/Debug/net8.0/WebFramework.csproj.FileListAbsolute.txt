@@ -1,0 +1,11 @@
+C:\Users\ASUS\Desktop\Tamrin\UrlShortener\UrlShortener\WebFramework\bin\Debug\net8.0\WebFramework.deps.json
+C:\Users\ASUS\Desktop\Tamrin\UrlShortener\UrlShortener\WebFramework\bin\Debug\net8.0\WebFramework.dll
+C:\Users\ASUS\Desktop\Tamrin\UrlShortener\UrlShortener\WebFramework\bin\Debug\net8.0\WebFramework.pdb
+C:\Users\ASUS\Desktop\Tamrin\UrlShortener\UrlShortener\WebFramework\obj\Debug\net8.0\WebFramework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\Tamrin\UrlShortener\UrlShortener\WebFramework\obj\Debug\net8.0\WebFramework.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\Tamrin\UrlShortener\UrlShortener\WebFramework\obj\Debug\net8.0\WebFramework.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\Tamrin\UrlShortener\UrlShortener\WebFramework\obj\Debug\net8.0\WebFramework.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Tamrin\UrlShortener\UrlShortener\WebFramework\obj\Debug\net8.0\WebFramework.dll
+C:\Users\ASUS\Desktop\Tamrin\UrlShortener\UrlShortener\WebFramework\obj\Debug\net8.0\refint\WebFramework.dll
+C:\Users\ASUS\Desktop\Tamrin\UrlShortener\UrlShortener\WebFramework\obj\Debug\net8.0\WebFramework.pdb
+C:\Users\ASUS\Desktop\Tamrin\UrlShortener\UrlShortener\WebFramework\obj\Debug\net8.0\ref\WebFramework.dll
