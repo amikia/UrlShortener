@@ -9,3 +9,10 @@ C:\Users\ASUS\Desktop\Tamrin\UrlShortener\UrlShortener\Data\obj\Debug\net8.0\Dat
 C:\Users\ASUS\Desktop\Tamrin\UrlShortener\UrlShortener\Data\obj\Debug\net8.0\refint\Data.dll
 C:\Users\ASUS\Desktop\Tamrin\UrlShortener\UrlShortener\Data\obj\Debug\net8.0\Data.pdb
 C:\Users\ASUS\Desktop\Tamrin\UrlShortener\UrlShortener\Data\obj\Debug\net8.0\ref\Data.dll
+C:\Users\ASUS\Desktop\Tamrin\UrlShortener\UrlShortener\Data\obj\Debug\net8.0\Data.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\Tamrin\UrlShortener\UrlShortener\Data\obj\Debug\net8.0\Data.sourcelink.json
+C:\Users\ASUS\Desktop\Tamrin\UrlShortener\UrlShortener\Data\bin\Debug\net8.0\Common.dll
+C:\Users\ASUS\Desktop\Tamrin\UrlShortener\UrlShortener\Data\bin\Debug\net8.0\Entities.dll
+C:\Users\ASUS\Desktop\Tamrin\UrlShortener\UrlShortener\Data\bin\Debug\net8.0\Entities.pdb
+C:\Users\ASUS\Desktop\Tamrin\UrlShortener\UrlShortener\Data\bin\Debug\net8.0\Common.pdb
+C:\Users\ASUS\Desktop\Tamrin\UrlShortener\UrlShortener\Data\obj\Debug\net8.0\Data.csproj.Up2Date

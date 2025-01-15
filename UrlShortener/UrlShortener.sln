@@ -1,34 +1,19 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.12.35527.113 d17.12
+VisualStudioVersion = 17.12.35527.113
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Common", "Common\Common.csproj", "{B8A1E717-29F8-4145-A5A6-58454427DEFC}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entities", "Entities\Entities.csproj", "{64D00887-E601-4723-9C25-5BCA62337EE4}"
-	ProjectSection(ProjectDependencies) = postProject
-		{B8A1E717-29F8-4145-A5A6-58454427DEFC} = {B8A1E717-29F8-4145-A5A6-58454427DEFC}
-	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Data", "Data\Data.csproj", "{A9043C27-197C-404A-9C1D-F732708C801A}"
-	ProjectSection(ProjectDependencies) = postProject
-		{64D00887-E601-4723-9C25-5BCA62337EE4} = {64D00887-E601-4723-9C25-5BCA62337EE4}
-	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Services", "Services\Services.csproj", "{5B26BB60-A033-4792-A0E5-0F36B8B88373}"
-	ProjectSection(ProjectDependencies) = postProject
-		{A9043C27-197C-404A-9C1D-F732708C801A} = {A9043C27-197C-404A-9C1D-F732708C801A}
-	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebFramework", "WebFramework\WebFramework.csproj", "{1168E768-239D-491E-A1A6-D57690A5AA5F}"
-	ProjectSection(ProjectDependencies) = postProject
-		{5B26BB60-A033-4792-A0E5-0F36B8B88373} = {5B26BB60-A033-4792-A0E5-0F36B8B88373}
-	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UrlShortenerApi", "UrlShortenerApi\UrlShortenerApi.csproj", "{26E51D83-45A8-41B3-AAF0-73FB6CCC8DCF}"
-	ProjectSection(ProjectDependencies) = postProject
-		{1168E768-239D-491E-A1A6-D57690A5AA5F} = {1168E768-239D-491E-A1A6-D57690A5AA5F}
-	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

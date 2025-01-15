@@ -9,3 +9,14 @@ C:\Users\ASUS\Desktop\Tamrin\UrlShortener\UrlShortener\WebFramework\obj\Debug\ne
 C:\Users\ASUS\Desktop\Tamrin\UrlShortener\UrlShortener\WebFramework\obj\Debug\net8.0\refint\WebFramework.dll
 C:\Users\ASUS\Desktop\Tamrin\UrlShortener\UrlShortener\WebFramework\obj\Debug\net8.0\WebFramework.pdb
 C:\Users\ASUS\Desktop\Tamrin\UrlShortener\UrlShortener\WebFramework\obj\Debug\net8.0\ref\WebFramework.dll
+C:\Users\ASUS\Desktop\Tamrin\UrlShortener\UrlShortener\WebFramework\obj\Debug\net8.0\WebFramework.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\Tamrin\UrlShortener\UrlShortener\WebFramework\obj\Debug\net8.0\WebFramework.sourcelink.json
+C:\Users\ASUS\Desktop\Tamrin\UrlShortener\UrlShortener\WebFramework\bin\Debug\net8.0\Common.dll
+C:\Users\ASUS\Desktop\Tamrin\UrlShortener\UrlShortener\WebFramework\bin\Debug\net8.0\Data.dll
+C:\Users\ASUS\Desktop\Tamrin\UrlShortener\UrlShortener\WebFramework\bin\Debug\net8.0\Entities.dll
+C:\Users\ASUS\Desktop\Tamrin\UrlShortener\UrlShortener\WebFramework\bin\Debug\net8.0\Services.dll
+C:\Users\ASUS\Desktop\Tamrin\UrlShortener\UrlShortener\WebFramework\bin\Debug\net8.0\Services.pdb
+C:\Users\ASUS\Desktop\Tamrin\UrlShortener\UrlShortener\WebFramework\bin\Debug\net8.0\Common.pdb
+C:\Users\ASUS\Desktop\Tamrin\UrlShortener\UrlShortener\WebFramework\bin\Debug\net8.0\Data.pdb
+C:\Users\ASUS\Desktop\Tamrin\UrlShortener\UrlShortener\WebFramework\bin\Debug\net8.0\Entities.pdb
+C:\Users\ASUS\Desktop\Tamrin\UrlShortener\UrlShortener\WebFramework\obj\Debug\net8.0\WebFrame.0CB53944.Up2Date
